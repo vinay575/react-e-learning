@@ -1,0 +1,12 @@
+uname: bhaskarvinaychitturi
+pwd: 363fVebq03MvPXZr
+gmail, app password : jklz echl dmvv bckm
+
+
+
+YoutubeElearning
+  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmEzZTk2MzZlYzdmMzMyNjM2NWZlNTMiLCJpYXQiOjE3MjIwMTgxNTYsImV4cCI6MTcyMzMxNDE1Nn0.vjFkSC24ssiAznSv5r-i6T6v1ZH28nsfML2lOpsSBVc
+
+
+
+frontendurl=http://localhost:5173  and  (sendMail.js) ----> replace this local host with orginal website domain name and also replace this in sendMail.js:in this line   <p><a href="https://yourwebsite.com">yourwebsite.com</a></p>  : 
